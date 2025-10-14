@@ -8,5 +8,3 @@
 - **Frameworks & Libraries:** React, Node.js, Express.js  
 - **Tools:** Git, Power BI, Excel, Jupyter Notebook  
 - **Areas:** Data Analysis, Web Development, Visualization  
-
-![Manulji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manulji123&show_icons=true&theme=radical)
