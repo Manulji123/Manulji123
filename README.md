@@ -1,6 +1,4 @@
-# Hi there, I'm Manulji Subhasinghe 👋
-
-🎓 Undergraduate IT & Management Student at University of Colombo  
+# Hi there, I'm Manulji Subhasinghe 👋  
 💻 Passionate about **Data Science, Web Development, and Project Management**  
 🌱 Currently learning advanced **data analytics and software engineering**  
 🌍 Interested in remote work, problem-solving, and exploring the world  
