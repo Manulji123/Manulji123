@@ -10,4 +10,3 @@
 - **Frameworks & Libraries:** React, Node.js, Express.js  
 - **Tools:** Git, Power BI, Excel, Jupyter Notebook  
 - **Areas:** Data Analysis, Web Development, Visualization  
----
