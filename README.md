@@ -6,10 +6,8 @@
 ---
 
 ## 🔧 Skills & Technologies
-- **Languages:** Python, SQL, HTML/CSS  
+- **Languages:** Python, PHP, SQL, HTML/CSS, JavaScript  
+- **Frameworks & Libraries:** React, Node.js, Express.js  
 - **Tools:** Git, Power BI, Excel, Jupyter Notebook  
-- **Areas:** Data Analysis, Web Development, Inventory Systems, Visualization 
-
+- **Areas:** Data Analysis, Web Development, Visualization  
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manulji123&color=blue)
