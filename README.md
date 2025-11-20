@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manulji Subhasinghe 
 I am an undergraduate from the University of Colombo
-How to reach me manulji0414@gmail.com
+-How to reach me manulji0414@gmail.com
 
 ## 🔧 Skills & Technologies
 - **Languages:** Python, PHP, SQL, HTML/CSS, JavaScript  
