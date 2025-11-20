@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Manulji Subhasinghe 
-- Passionate about **Data Science, Web Development, and Project Management**  
-- Currently learning advanced **data analytics and software engineering**  
-- Interested in remote work, problem-solving, and exploring the world  
+I am an undergraduate from the University of Colombo
+How to reach me manulji0414@gmail.com
 
 ## 🔧 Skills & Technologies
 - **Languages:** Python, PHP, SQL, HTML/CSS, JavaScript  
